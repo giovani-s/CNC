@@ -1,4 +1,4 @@
-# CNC a base de partes reutilizadas de lectores DVD
+# Máquina CNC Personalizada a base de lectores DVD
 ![guita1](/banner.jpg)
 
 ## Acerca del proyecto:

@@ -1,5 +1,5 @@
 # Máquina CNC Personalizada a base de lectores DVD
-![guita1](/banner.jpg)
+![banner](/banner.jpg)
 
 ## Acerca del proyecto:
 Este proyecto documenta la construcción de una máquina CNC utilizando materiales obtenidos de lectores de DVD y componentes electrónicos necesarios para controlar dos motores paso a paso, que son la parte mecanica principal de este "pequeño" proyecto.
@@ -25,21 +25,21 @@ Se dispone un boligrafor con una punta fina (0.5mm) el cual tiene como proposito
 Para su funcionamiento, se desarrolló un algoritmo de procesamiento de imágenes en Python. Este algoritmo permitió que la aplicación que enviaba los datos de coordenadas al puerto serial de la Mbed seleccionara una imagen de tipo silueta y la procesara. El proceso incluyó un algoritmo de búsqueda en profundidad que seguía la silueta procesada de la imagen original. Siendo esto necesario para que el bolígrafo recorriera el camino una sola vez.
 
 ![gato](/gato.jpg)
-![gato1](/gato%procesado.jpg)
+![gato1](/gato%20procesado.jpg)
 
 ![guitarra](/guitarra.jpg)
-![guitarra1](/guitarra%procesado.jpg)
+![guitarra1](/guitarra%20procesado.jpg)
 
 ![circulo](/circulo.jpg)
-![circulo1](/circulo%procesado.jpg)
+![circulo1](/circulo%20procesado.jpg)
 
 ![cora](/cora.jpg)
-![cora1](/cora%procesado.jpg)
+![cora1](/cora%20procesado.jpg)
 
 ## Resultados y Conclusiones
 
-![guita1](/demo%20guitar1.jpg)
-![guita2](/demo%20guitar2.jpg)
+![guita1](/demo%20guitar1.gif)
+![guita2](/demo%20guitar2.gif)
 
 Como resultado, logré crear una máquina CNC funcional que podía trazar una copia de las imágenes en estilo de siluetas. Este proyecto me permitió desarrollar y reforzaar habilidades en programación, diseño mecánico, controladores de motores y procesamiento de imágenes, además de aprender a aplicar estas habilidades en un proyecto práctico.
 

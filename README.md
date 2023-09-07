@@ -24,22 +24,22 @@ Se dispone un boligrafor con una punta fina (0.5mm) el cual tiene como proposito
 ## Funcionamiento:
 Para su funcionamiento, se desarrolló un algoritmo de procesamiento de imágenes en Python. Este algoritmo permitió que la aplicación que enviaba los datos de coordenadas al puerto serial de la Mbed seleccionara una imagen de tipo silueta y la procesara. El proceso incluyó un algoritmo de búsqueda en profundidad que seguía la silueta procesada de la imagen original. Siendo esto necesario para que el bolígrafo recorriera el camino una sola vez.
 
-![gato](/gato.gif)
-![gato1](/gato%procesado.gif)
+![gato](/gato.jpg)
+![gato1](/gato%procesado.jpg)
 
-![guitarra](/guitarra.gif)
-![guitarra1](/guitarra%procesado.gif)
+![guitarra](/guitarra.jpg)
+![guitarra1](/guitarra%procesado.jpg)
 
-![circulo](/circulo.gif)
-![circulo1](/circulo%procesado.gif)
+![circulo](/circulo.jpg)
+![circulo1](/circulo%procesado.jpg)
 
-![cora](/cora.gif)
-![cora1](/cora%procesado.gif)
+![cora](/cora.jpg)
+![cora1](/cora%procesado.jpg)
 
 ## Resultados y Conclusiones
 
-![guita1](/demo%20guitar1.gif)
-![guita2](/demo%20guitar2.gif)
+![guita1](/demo%20guitar1.jpg)
+![guita2](/demo%20guitar2.jpg)
 
 Como resultado, logré crear una máquina CNC funcional que podía trazar una copia de las imágenes en estilo de siluetas. Este proyecto me permitió desarrollar y reforzaar habilidades en programación, diseño mecánico, controladores de motores y procesamiento de imágenes, además de aprender a aplicar estas habilidades en un proyecto práctico.
 

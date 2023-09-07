@@ -16,7 +16,7 @@ colocar un eje superpuesto al otro para asi formar un plano cartesiano con x e y
 -CONSTRUCCION: Utilizando 2 drivers A4988 uno para cada motor, procedo a programar una tarjeta microcontroladora mbed, de manera que al enviar informacion de las coordenadas a la que debe posicionarse el boligrafo, mueva los motores a esta posicion en el nuevo plano cartesiano que se formó de sobreponer los ejes de cada motor, y gracias a este consiguiedo un movimiento en 2 dimensiones por las que se puede desplazar formando un trazado con el boligrafo.
 
 Se dispone un boligrafor con una punta fina (0.5mm) el cual tiene como proposito hacer visibles los movimientos recibidos como informacion por medio del puerto serial. 
-![guita1](https://github.com/giovani-s/CNC/blob/main/protoboard%20con%20drivers%20y%20mbed.jpg)
+![guita1](https://github.com/giovani-s/CNC/blob/main/protoboard%20con%20drivers%20y%20mbed1.jpg)
 ![guita1](https://github.com/giovani-s/CNC/blob/main/general.jpg)
 ![guita1](https://github.com/giovani-s/CNC/blob/main/Resultados.jpg)
 

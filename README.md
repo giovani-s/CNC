@@ -16,15 +16,15 @@ Es importante destacar que para la contruccion de este proyecto, no me he basado
 
 colocar los ejes superpuestos, para asi formar un plano cartesiano con x e y como coordenadas.
 
--CONSTRUCCION:
+- CONSTRUCCION:
 Utilizando 2 drivers A4988 uno para cada motor, procedo a programar una tarjeta microcontroladora mbed. Esto permitió que, al enviar información de las coordenadas a las que debe posicionarse el bolígrafo, los motores se muevan a esta posicion en el nuevo plano cartesiano formado de sobreponer los ejes de cada motor. Gracias a esto, se logró un movimiento en bidimensional permitiendo así, un trazo con el boligrafo.
 
 Se dispone un boligrafor con una punta fina (0.5mm) el cual tiene como proposito hacer visibles los movimientos recibidos como informacion por medio del puerto serial. 
 
-##Funcionamiento:
+## Funcionamiento:
 Para su funcionamiento, se desarrolló un algoritmo de procesamiento de imágenes en Python. Este algoritmo permitió que la aplicación que enviaba los datos de coordenadas al puerto serial de la Mbed seleccionara una imagen de tipo silueta y la procesara. El proceso incluyó un algoritmo de búsqueda en profundidad que seguía la silueta procesada de la imagen original. Siendo esto necesario para que el bolígrafo recorriera el camino una sola vez.
 
-##RESULTADOS y CONCLUSIONES
+## RESULTADOS y CONCLUSIONES
 
 ![guita1](https://github.com/giovani-s/CNC/blob/main/demo%20guitar1.gif)
 ![guita2](https://github.com/giovani-s/CNC/blob/main/demo%20guitar2.gif)

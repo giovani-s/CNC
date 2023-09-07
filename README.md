@@ -19,7 +19,11 @@ Se dispone un boligrafor con una punta fina (0.5mm) el cual tiene como proposito
 Para su funcionamiento se crea un algorimo de procesamiento de imagenes en lenguje python que permite al aplicativo que envia los datos de las coordenadas hacia el puerto serial de la Mbed, seleccionar una imagen de tipo silueta y procesarla para que por medio de un algoritmo de busqueda en profundidaad logre recorrer un camino basado en la silueta procesada de la imagen original, necesario para recorrer el camino solo una vez.
 
 ##RESULTADOS
-![GIT](https://github.com/giovani-s/CNC/blob/main/demo%20guitar2.gif)
+
+![guita1](https://github.com/giovani-s/CNC/blob/main/demo%20guitar1.gif)
+![guita2](https://github.com/giovani-s/CNC/blob/main/demo%20guitar2.gif)
+![circle1](https://github.com/giovani-s/CNC/blob/main/demo%20circle1.gif)
+![circle2](https://github.com/giovani-s/CNC/blob/main/demo%20circle2.gif)
 
 ##CONCLUSIONES
 

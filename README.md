@@ -22,6 +22,8 @@ Para su funcionamiento se crea un algorimo de procesamiento de imagenes en lengu
 
 ![guita1](https://github.com/giovani-s/CNC/blob/main/demo%20guitar1.gif)
 ![guita2](https://github.com/giovani-s/CNC/blob/main/demo%20guitar2.gif)
+
+
 ![circle1](https://github.com/giovani-s/CNC/blob/main/demo%20circle1.gif)
 ![circle2](https://github.com/giovani-s/CNC/blob/main/demo%20circle2.gif)
 

@@ -26,16 +26,16 @@ Para su funcionamiento, se desarrolló un algoritmo de procesamiento de imágene
 
 ## RESULTADOS y CONCLUSIONES
 
-[![guita1](/demo%20guitar1.gif)
-[![guita2](/demo%20guitar2.gif)
+![guita1](/demo%20guitar1.gif)
+![guita2](/demo%20guitar2.gif)
 
 Como resultado, logré crear una máquina CNC funcional que podía trazar una copia de las imágenes en estilo de siluetas. Este proyecto me permitió desarrollar y reforzaar habilidades en programación, diseño mecánico, controladores de motores y procesamiento de imágenes, además de aprender a aplicar estas habilidades en un proyecto práctico.
 
 
-[![circle1](/demo%20circle1.gif)
-[![circle2](/demo%20circle2.gif)
+![circle1](/demo%20circle1.gif)
+![circle2](/demo%20circle2.gif)
 
-[![1](/protoboard%20con%20drivers%20y%20mbed1.jpg)
+![1](/protoboard%20con%20drivers%20y%20mbed1.jpg)
 
-[![3](/Resultados.jpg)
+![3](/Resultados.jpg)
 

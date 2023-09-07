@@ -16,9 +16,7 @@ colocar un eje superpuesto al otro para asi formar un plano cartesiano con x e y
 -CONSTRUCCION: Utilizando 2 drivers A4988 uno para cada motor, procedo a programar una tarjeta microcontroladora mbed, de manera que al enviar informacion de las coordenadas a la que debe posicionarse el boligrafo, mueva los motores a esta posicion en el nuevo plano cartesiano que se formó de sobreponer los ejes de cada motor, y gracias a este consiguiedo un movimiento en 2 dimensiones por las que se puede desplazar formando un trazado con el boligrafo.
 
 Se dispone un boligrafor con una punta fina (0.5mm) el cual tiene como proposito hacer visibles los movimientos recibidos como informacion por medio del puerto serial. 
-![guita1](https://github.com/giovani-s/CNC/blob/main/protoboard%20con%20drivers%20y%20mbed1.jpg)
-![guita1](https://github.com/giovani-s/CNC/blob/main/general.jpg)
-![guita1](https://github.com/giovani-s/CNC/blob/main/Resultados.jpg)
+
 
 Para su funcionamiento se crea un algorimo de procesamiento de imagenes en lenguje python que permite al aplicativo que envia los datos de las coordenadas hacia el puerto serial de la Mbed, seleccionar una imagen de tipo silueta y procesarla para que por medio de un algoritmo de busqueda en profundidaad logre recorrer un camino basado en la silueta procesada de la imagen original, necesario para recorrer el camino solo una vez.
 
@@ -28,8 +26,14 @@ Para su funcionamiento se crea un algorimo de procesamiento de imagenes en lengu
 ![guita2](https://github.com/giovani-s/CNC/blob/main/demo%20guitar2.gif)
 
 
+
+
 ![circle1](https://github.com/giovani-s/CNC/blob/main/demo%20circle1.gif)
 ![circle2](https://github.com/giovani-s/CNC/blob/main/demo%20circle2.gif)
+
+![1](https://github.com/giovani-s/CNC/blob/main/protoboard%20con%20drivers%20y%20mbed1.jpg)
+![2](https://github.com/giovani-s/CNC/blob/main/general.jpg)
+![3](https://github.com/giovani-s/CNC/blob/main/Resultados.jpg)
 
 ##CONCLUSIONES
 

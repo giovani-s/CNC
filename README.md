@@ -24,6 +24,18 @@ Se dispone un boligrafor con una punta fina (0.5mm) el cual tiene como proposito
 ## Funcionamiento:
 Para su funcionamiento, se desarrolló un algoritmo de procesamiento de imágenes en Python. Este algoritmo permitió que la aplicación que enviaba los datos de coordenadas al puerto serial de la Mbed seleccionara una imagen de tipo silueta y la procesara. El proceso incluyó un algoritmo de búsqueda en profundidad que seguía la silueta procesada de la imagen original. Siendo esto necesario para que el bolígrafo recorriera el camino una sola vez.
 
+![guita1](/gato.gif)
+![guita1](/gato%procesado.gif)
+
+![guita1](/guitarra.gif)
+![guita1](/guitarra%procesado.gif)
+
+![guita1](/circulo.gif)
+![guita1](/circulo%procesado.gif)
+
+![guita1](/cora.gif)
+![guita1](/cora%procesado.gif)
+
 ## Resultados y Conclusiones
 
 ![guita1](/demo%20guitar1.gif)

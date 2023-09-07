@@ -1,5 +1,5 @@
 # CNC a base de partes reutilizadas de lectores DVD
-![guita1](https://github.com/giovani-s/CNC/blob/main/banner.jpg)
+![guita1](/banner.jpg)
 
 ##Acerca del proyecto:
 Este proyecto documenta la construcción de una máquina CNC utilizando materiales obtenidos de lectores de DVD y componentes electrónicos necesarios para controlar dos motores paso a paso, que son la parte mecanica principal de este "pequeño" proyecto.
@@ -12,7 +12,7 @@ Es importante destacar que para la contruccion de este proyecto, no me he basado
 ## Proceso
 - DISEÑO: En el diseño mi objetivo principal fue lograr dos ejes independientes, además como fase inicial decidi que la CNC escribiría con un bolígrafo, dando como resultado :
 
-![2](https://github.com/giovani-s/CNC/blob/main/general.jpg)
+![2](/general.jpg)
 
 colocar los ejes superpuestos, para asi formar un plano cartesiano con x e y como coordenadas.
 
@@ -26,16 +26,16 @@ Para su funcionamiento, se desarrolló un algoritmo de procesamiento de imágene
 
 ## RESULTADOS y CONCLUSIONES
 
-[![guita1](https://github.com/giovani-s/CNC/blob/main/demo%20guitar1.gif)
-[![guita2](https://github.com/giovani-s/CNC/blob/main/demo%20guitar2.gif)
+[![guita1](/demo%20guitar1.gif)
+[![guita2](/demo%20guitar2.gif)
 
 Como resultado, logré crear una máquina CNC funcional que podía trazar una copia de las imágenes en estilo de siluetas. Este proyecto me permitió desarrollar y reforzaar habilidades en programación, diseño mecánico, controladores de motores y procesamiento de imágenes, además de aprender a aplicar estas habilidades en un proyecto práctico.
 
 
-[![circle1](https://github.com/giovani-s/CNC/blob/main/demo%20circle1.gif)
-[![circle2](https://github.com/giovani-s/CNC/blob/main/demo%20circle2.gif)
+[![circle1](/demo%20circle1.gif)
+[![circle2](/demo%20circle2.gif)
 
-[![1](https://github.com/giovani-s/CNC/blob/main/protoboard%20con%20drivers%20y%20mbed1.jpg)
+[![1](/protoboard%20con%20drivers%20y%20mbed1.jpg)
 
 [![3](/Resultados.jpg)
 

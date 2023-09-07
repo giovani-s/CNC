@@ -32,10 +32,10 @@ Para su funcionamiento, se desarrolló un algoritmo de procesamiento de imágene
 Como resultado, logré crear una máquina CNC funcional que podía trazar una copia de las imágenes en estilo de siluetas. Este proyecto me permitió desarrollar y reforzaar habilidades en programación, diseño mecánico, controladores de motores y procesamiento de imágenes, además de aprender a aplicar estas habilidades en un proyecto práctico.
 
 
-![circle1](<img src="https://github.com/giovani-s/CNC/blob/main/demo%20circle1.gif" width="200" height="100">)
+![circle1](https://github.com/giovani-s/CNC/blob/main/demo%20circle1.gif)
 ![circle2](https://github.com/giovani-s/CNC/blob/main/demo%20circle2.gif)
 
-![1](https://github.com/giovani-s/CNC/blob/main/protoboard%20con%20drivers%20y%20mbed1.jpg)
+![1](<img src="https://github.com/giovani-s/CNC/blob/main/protoboard%20con%20drivers%20y%20mbed1.jpg" width="200" height="100">)
 
 ![3](https://github.com/giovani-s/CNC/blob/main/Resultados.jpg)
 

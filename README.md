@@ -10,7 +10,7 @@ CNC, que significa Control Numérico por Computadora en inglés (Computerized  N
 Es importante destacar que para la contruccion de este proyecto, **no** me he basado en otro proyecto por lo que; la funcionalidad de esta CNC podría no ser común o generica.
 
 ## Proceso
-- ## ***DISEÑO:*** En el diseño mi objetivo principal fue lograr dos ejes independientes, además como fase inicial decidi que la CNC escribiría con un bolígrafo, dando como resultado :
+- ***DISEÑO:*** En el diseño mi objetivo principal fue lograr dos ejes independientes, además como fase inicial decidi que la CNC escribiría con un bolígrafo, dando como resultado :
 
 ![2](/general.jpg)
 

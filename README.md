@@ -5,7 +5,7 @@
 Este proyecto documenta la construcción de una máquina CNC utilizando materiales obtenidos de lectores de DVD y componentes electrónicos necesarios para controlar dos motores paso a paso, que son la parte mecanica principal de este "pequeño" proyecto.
 
 ## Contexto:
-CNC, que significa Control Numérico por Computadora en inglés (Computerized  Numeric Control) es un metodo de control utilizado ampliamente en la industria de la tecnologia, desde pequeños trabajos y aprendizaje en las escuelas hasta la industria pesada como la construccion de coetes espaciales y viviendas, soldadura, etc. En este caso, decidí  construir una pequeña maquina funcional CNC a escala, para mostrar mis habilidades y conocimientos aplicados en situaciones del mundo real.
+CNC, que significa Control Numérico por Computadora en inglés (Computerized  Numeric Control) es un metodo de control utilizado ampliamente en la industria de la tecnologia, desde pequeños trabajos y aprendizaje en las escuelas hasta la industria pesada como la construccion de cohetes espaciales y viviendas, soldadura, etc. En este caso, decidí  construir una pequeña maquina funcional CNC a escala, para mostrar mis habilidades y conocimientos aplicados en situaciones del mundo real.
 
 Es importante destacar que para la contruccion de este proyecto, **no** me he basado en otro proyecto por lo que; la funcionalidad de esta CNC podría no ser común o generica.
 

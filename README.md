@@ -10,11 +10,13 @@ CNC, que significa Control Numérico por Computadora en inglés (Computerized  N
 Es importante destacar que para la contruccion de este proyecto, **no** me he basado en otro proyecto por lo que; la funcionalidad de esta CNC podría no ser común o generica.
 
 ## Proceso
-- ***DISEÑO:*** En el diseño mi objetivo principal fue lograr dos ejes independientes, además como fase inicial decidi que la CNC escribiría con un bolígrafo, dando como resultado :
+- ***DISEÑO:*** En el diseño mi objetivo principal fue lograr dos ejes independientes, esto se logró superponiendo dos ejes, lo que permitió la representación de coordenadas x e y. Además como fase inicial decidi que la CNC escribiría con un bolígrafo, dando como resultado :
 
-![2](/general.jpg)
+| Colocar los ejes superpuestos, para asi formar un plano cartesiano con x e y como coordenadas. |
+| --- |
+| ![2](/general.jpg) |
 
-Colocar los ejes superpuestos, para asi formar un plano cartesiano con x e y como coordenadas.
+
 
 - ***CONSTRUCCION:*** Utilizando un driver A4988 para cada motor paso a paso, procedo a programar la tarjeta microcontroladora Mbed. Esto permitió que, al enviar información de las nuevas coordenadas a las que debe posicionarse el bolígrafo, los motores se muevan a esta posicion en el plano cartesiano formado al sobreponer los ejes de cada motor. Donde se logró un movimiento bidimensional teniendo como resultado un trazo con el bolígrafo.
 
@@ -41,7 +43,7 @@ Para su funcionamiento, se desarrolló un algoritmo de procesamiento de imágene
 | ----- | ----- |
 | ![guita1](/demo%20guitar1.gif) | ![guita2](/demo%20guitar2.gif) |
 
-Como resultado, logré crear una máquina CNC funcional que podía trazar una copia de las imágenes en estilo de siluetas. Este proyecto me permitió desarrollar y reforzaar habilidades en programación, diseño mecánico, controladores de motores y procesamiento de imágenes, además de aprender a aplicar estas habilidades en un proyecto práctico.
+Como resultado, logré crear una máquina CNC funcional que podía trazar una copia de las imágenes en estilo de siluetas. Este proyecto me permitió desarrollar y reforzar habilidades en programación, diseño mecánico, controladores de motores y procesamiento de imágenes, además de aprender a aplicar estas habilidades en un proyecto práctico.
 
 | Demo Circulo p1 | Demo Circulo p2 |
 | ----- | ----- |

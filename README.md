@@ -11,14 +11,14 @@ Es importante destacar que para la contruccion de este proyecto, **no** me he ba
 
 ## Proceso
 - DISEÑO:
-- En el diseño mi objetivo principal fue lograr dos ejes independientes, además como fase inicial decidi que la CNC escribiría con un bolígrafo, dando como resultado :
+ En el diseño mi objetivo principal fue lograr dos ejes independientes, además como fase inicial decidi que la CNC escribiría con un bolígrafo, dando como resultado :
 
 ![2](/general.jpg)
 
 Colocar los ejes superpuestos, para asi formar un plano cartesiano con x e y como coordenadas.
 
 - CONSTRUCCION:
-- Utilizando un driver A4988 para cada motor paso a paso, procedo a programar la tarjeta microcontroladora Mbed. Esto permitió que, al enviar información de las nuevas coordenadas a las que debe posicionarse el bolígrafo, los motores se muevan a esta posicion en el plano cartesiano formado al sobreponer los ejes de cada motor. Donde se logró un movimiento bidimensional teniendo como resultado un trazo con el bolígrafo.
+ Utilizando un driver A4988 para cada motor paso a paso, procedo a programar la tarjeta microcontroladora Mbed. Esto permitió que, al enviar información de las nuevas coordenadas a las que debe posicionarse el bolígrafo, los motores se muevan a esta posicion en el plano cartesiano formado al sobreponer los ejes de cada motor. Donde se logró un movimiento bidimensional teniendo como resultado un trazo con el bolígrafo.
 
 Se dispone un boligrafor con una punta fina (0.5mm) el cual tiene como proposito hacer visibles los movimientos recibidos como informacion por medio del puerto serial. 
 

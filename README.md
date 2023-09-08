@@ -47,6 +47,10 @@ Como resultado, logré crear una máquina CNC funcional que podía trazar una co
 | Demo Circulo p1 | Demo Circulo p2 |
 | ----- | ----- |
 | ![circle1](/demo%20circle1.gif) | ![circle2](/demo%20circle2.gif) |
+
+
+| Vista General Conexiones Mbed | Resultado del proyecto con imágenes de prueba |
+| ----- | ----- |
 | ![1](/protoboard%20con%20drivers%20y%20mbed1.jpg) | ![3](/Resultados.jpg) |
 
 

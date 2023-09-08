@@ -25,11 +25,11 @@ Se dispone un boligrafor con una punta fina (0.5mm) el cual tiene como proposito
 Para su funcionamiento, se desarrolló un algoritmo de procesamiento de imágenes en Python. Este algoritmo permitió que la aplicación que enviaba los datos de coordenadas al puerto serial de la Mbed seleccionara una imagen de tipo silueta y la procesara. El proceso incluyó un algoritmo de búsqueda en profundidad que seguía la silueta procesada de la imagen original. Siendo esto necesario para que el bolígrafo recorriera el camino una sola vez.
 
 
-|-----|-----|
-|Imagen original de silueta|Imagen procesada que muestra el camino que recorrera la CNC con el boligrafo|
-|
-|![gato](/gato.jpg)|![gato1](/gato%20procesado.jpg)|
-|-----|-----|
+| ----- | ----- |
+| Imagen original de silueta | Imagen procesada que muestra el camino que recorrera la CNC con el boligrafo |
+| ----- | ----- |
+| ![gato](/gato.jpg) | ![gato1](/gato%20procesado.jpg) |
+| ----- | ----- |
 
 
 

@@ -31,7 +31,7 @@ Para su funcionamiento, se desarrolló un algoritmo de procesamiento de imágene
 | ![guitarra](/guitarra.jpg) | ![guitarra1](/guitarra%20procesado.jpg) |
 | ![circulo](/circulo.jpg) | ![circulo1](/circulo%20procesado.jpg) |
 | ![cora](/cora.jpg) | ![cora1](/cora%20procesado.jpg) |
-
+| ![espiral](/espiral.jpg) | ![espiral1](/espiral%20procesado.jpg) |
 
 
 ## Resultados y Conclusiones

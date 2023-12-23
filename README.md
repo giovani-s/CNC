@@ -1,4 +1,4 @@
-# Máquina CNC Personalizada a base de lectores DVD
+# Ploter CNC hecho a base de lectores DVD
 ![banner](/banner.jpg)
 
 ## Acerca del proyecto:
